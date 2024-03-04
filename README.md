@@ -2,7 +2,8 @@
 
 ### Screenshots
 
-![Screenshot 1]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/suryanshp1/flowchart-to-code-generator/blob/main/images/gen1.png?raw=true)
+
+![Screenshot 1](https://raw.githubusercontent.com/suryanshp1/flowchart-to-code-generator/main/images/gen1.png)
 
 
-![Screenshot 2]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/suryanshp1/flowchart-to-code-generator/blob/main/images/gen1.png)https://github.com/suryanshp1/flowchart-to-code-generator/blob/main/images/gen2.png?raw=true)
+![Screenshot 2](https://raw.githubusercontent.com/suryanshp1/flowchart-to-code-generator/main/images/gen2.png)
